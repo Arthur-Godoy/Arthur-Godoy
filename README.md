@@ -2,8 +2,7 @@
 
 Apaixonado por tecnologia, atualmente
 estudo e procuro em breve ser um
-desenvolvedor full-stack, porém já estou bem
-consolidado na parte do front-end, em react
+desenvolvedor full-stack, porém já estou preparado para entrar no mercado na parte do front-end, em react
 ou até mesmo sem utilizar frameworks,
 Porém ainda não tive oportunidade de me
 provar no mercado, e espero Achar essa
