@@ -1,12 +1,6 @@
 ### Opa Eu Sou Arthur Godoy
 
-Apaixonado por tecnologia, atualmente
-estudo e procuro em breve ser um
-desenvolvedor full-stack, porém já estou preparado para entrar no mercado na parte do front-end, em react
-ou até mesmo sem utilizar frameworks,
-Porém ainda não tive oportunidade de me
-provar no mercado, e espero Achar essa
-oportunidade
+<p> Meu nome é <b>Arthur Godoy</b> Apaixonado por tecnologia, atualmente estudo desenvolvimento full-stack com Laravel, já estou preparado para entrar no mercado, Ainda não tenho experiência porém tenho sede de aprender a de me mostrar valoroso para uma empresa, Porém ainda não tive oportunidade de me provar no mercado, e espero encontrar em breve :)</p>
 
 <div align="center">
   <a href="https://github.com/Arthur-Godoy">
