@@ -2,7 +2,7 @@
 
 <a href="https://portifolio-arthur-six.vercel.app/">Meu Portifólio</a>
 
-<p> Meu nome é Arthur Godoy, atualmente trabalho com desenvolvimento full-stack usando Laravel & React/Vue, atualmente trabalho como Freelancer buscando sempre fazer o meu melhor em cada projeto. Aqui você poderá ver alguns deles.</p>
+<p> Meu nome é Arthur Godoy, atualmente trabalho com desenvolvimento full-stack usando Laravel & React/Vue, trabalho como Freelancer buscando sempre fazer o meu melhor em cada projeto.</p>
 
 <div align="center">
   <a href="https://github.com/Arthur-Godoy">
