@@ -2,7 +2,7 @@
 
 <a href="https://portifolio-arthur-six.vercel.app/">Meu Portifólio</a>
 
-<p> Meu nome é <b>Arthur Godoy</b> Apaixonado por tecnologia, atualmente estudo desenvolvimento full-stack com Laravel, já estou preparado para entrar no mercado, Ainda não tenho experiência porém tenho sede de aprender a de me mostrar valoroso para uma empresa, Porém ainda não tive oportunidade de me provar no mercado, e espero encontrar em breve :)</p>
+<p> Meu nome é Arthur Godoy, atualmente trabalho com desenvolvimento full-stack usando Laravel & React/Vue, atualmente trabalho como Freelancer buscando sempre fazer o meu melhor em cada projeto. Aqui você poderá ver alguns deles.</p>
 
 <div align="center">
   <a href="https://github.com/Arthur-Godoy">
