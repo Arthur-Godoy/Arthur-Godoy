@@ -3,12 +3,6 @@
 <a href="https://portifolio-arthur-six.vercel.app/">Meu Portifólio</a>
 
 <p> Meu nome é Arthur Godoy, atualmente trabalho com desenvolvimento full-stack usando Laravel & React/Vue, trabalho como Freelancer buscando sempre fazer o meu melhor em cada projeto.</p>
-
-<div align="center">
-  <a href="https://github.com/Arthur-Godoy">
-  <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Arthur-Godoy&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Godoy&layout=compact&langs_count=7&theme=nord"/>
-</div>
 <div style="width: 100%; text-align: center"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
